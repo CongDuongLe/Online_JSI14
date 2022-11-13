@@ -1,6 +1,6 @@
 # Online_JSI14
 về nhà ôn tập
-1, array.map().
+1, array.map()
 2. array.filter()
 3 spread operator
 4. rest parameter
